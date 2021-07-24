@@ -3,5 +3,5 @@ package research
 import "fmt"
 
 func Hello() {
-	fmt.Println("Hellow research!")
+	fmt.Println("Hello research!")
 }
